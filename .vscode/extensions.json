@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "eamodio.gitlens",
+        "mechatroner.rainbow-csv",
+        "ms-python.black-formatter",
+        "ms-python.debugpy",
+        "ms-python.isort",
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "streetsidesoftware.code-spell-checker"
+    ],
+    "unwantedRecommendations": [
+    ]
+}
