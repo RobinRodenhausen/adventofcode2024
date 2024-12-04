@@ -21,6 +21,7 @@
         "editor.formatOnSave": true,
         "editor.formatOnSaveMode": "file"
     },
+    "python.analysis.typeCheckingMode": "strict",
     "terminal.integrated.defaultProfile.linux": "bash-login",
     "terminal.integrated.profiles.linux": {
         "bash-login": {
