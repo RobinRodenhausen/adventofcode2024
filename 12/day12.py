@@ -31,7 +31,7 @@ def check_region_1(
     return area, perimeter
 
 
-def day11_1():
+def day12_1():
     lines = read_lines("12/input_example")
     lines = read_lines("12/input")
 
@@ -125,7 +125,7 @@ def check_region_2(
     return area, corners
 
 
-def day11_2():
+def day12_2():
     lines = read_lines("12/input_example")
     lines = read_lines("12/input")
 
@@ -150,5 +150,5 @@ def day11_2():
 
 
 if __name__ == "__main__":
-    day11_1()
-    day11_2()
+    day12_1()
+    day12_2()
