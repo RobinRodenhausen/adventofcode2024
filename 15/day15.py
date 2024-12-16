@@ -235,7 +235,7 @@ def day15_2():
 
     instructions = instruction_lines.replace("\n", "")
 
-    for i, char in enumerate(instructions):
+    for i, char in enumerate(instructions):  # pyright: ignore[reportUnusedVariable]
 
         # if i >= 638:
         #     debug_warehouse(warehouse, robot)
